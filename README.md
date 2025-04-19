@@ -19,7 +19,6 @@ yarn start
 ```
 
 ## Step 2: Build and run your app
-![Screenshot (112)](https://github.com/user-attachments/assets/4a661b2a-19f2-4432-958c-121354e4caf1)
 
 With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
 
